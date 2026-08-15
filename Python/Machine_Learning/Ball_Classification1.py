@@ -7,7 +7,7 @@ def main():
 
     Labels = ["Tennis","Tennis","Cricket","Tennis","Cricket","Tennis","Cricket","Tennis","Tennis","Tennis","Cricket","Tennis","Cricket","Tennis","Cricket"]
 
-    print("Features are :",Features)
+    print("Features are :",Features) 
     print("Labels are ",Labels)
 
 if __name__ == "__main__":

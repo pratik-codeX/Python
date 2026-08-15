@@ -15,7 +15,7 @@ df = pd.read_csv(Datapath)
 
 print("Dataset Loaded Successfully")
 
-print("Initial Entries from dataset are :",df.head())
+print("Initial Entries from dataset are :\n",df.head())
 
 ##################################################
 #   Step 2 : Data Analysis (EDA) Exploratory Data Analysis
