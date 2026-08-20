@@ -43,7 +43,6 @@ def PredictPassenger(model):
     if result == 1:
         print("Survived")
     
-
 def main():
     model = LoadModel("./MarvellousTitanic.pkl")
 
