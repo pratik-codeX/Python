@@ -1,0 +1,190 @@
+%-------------------------
+% ATS-Friendly Resume in LaTeX
+% Candidate: Pratik Nanaso Raut
+% Target Role: JavaScript Engineer (HMI/Industrial Automation)
+% Target Company: TecLogos
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+
+\IfFileExists{fontawesome5.sty}{
+  \usepackage{fontawesome5}
+}{
+  \IfFileExists{fontawesome.sty}{
+    \usepackage{fontawesome}
+  }{
+    \newcommand{\faPhone}{}
+    \newcommand{\faEnvelope}{}
+    \newcommand{\faLinkedin}{}
+    \newcommand{\faGithub}{}
+  }
+}
+
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[T1]{fontenc}
+
+\ifdefined\pdfglyphtounicode
+  \input{glyphtounicode}
+  \pdfgentounicode=1
+\else
+  \ifdefined\pdfgentounicode
+    \input{glyphtounicode}
+    \pdfgentounicode=1
+  \fi
+\fi
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.65in}
+\addtolength{\evensidemargin}{-0.65in}
+\addtolength{\textwidth}{1.30in}
+\addtolength{\topmargin}{-0.90in}
+\addtolength{\textheight}{1.86in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-8pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{\item\small{{#1 \vspace{-1pt}}}}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.15in, label=\small$\bullet$, itemsep=0pt, parsep=0pt, topsep=2pt, partopsep=0pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-3pt}}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \scshape Pratik Nanaso Raut} \\ \vspace{3pt}
+    \small Pune, Maharashtra ~|~
+    \faPhone\ +91-8600475940 ~|~
+    \href{mailto:pratikraut.codex@gmail.com}{\faEnvelope\ \underline{pratikraut.codex@gmail.com}} \\ \vspace{3pt}
+    \href{https://linkedin.com/in/pratik-codex}{\faLinkedin\ \underline{linkedin.com/in/pratik-codex}} ~|~
+    \href{https://github.com/pratik-codeX}{\faGithub\ \underline{github.com/pratik-codeX}}
+\end{center}
+
+\vspace{-2pt}
+
+%-----------SUMMARY-----------
+\section{Career Objective}
+MCA graduate with hands-on experience in JavaScript, DOM manipulation, dynamic UI development, and system automation scripting. Built real-time event-driven web applications using Angular and Socket.io with WebSocket communication, and automated system monitoring utilities using Python. Seeking to apply scripting, visualization, and problem-solving skills in industrial automation and HMI display development.
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+\vspace{2pt}
+\textbf{Programming / Scripting:} JavaScript (ES6+), HTML5, CSS3, Python, Java \\[2pt]
+\textbf{Frontend \& Visualization:} Angular, React.js, DOM Manipulation, Event Handling, Dynamic Display Development, Component Architecture \\[2pt]
+\textbf{Real-Time \& Networking:} WebSocket (Socket.io), REST APIs, TCP/IP Socket Programming \\[2pt]
+\textbf{Automation \& Monitoring:} Python (Psutil, Schedule, OS Module), System Resource Monitoring, Process Scanning, Diagnostic Logging \\[2pt]
+\textbf{Databases:} MySQL, PostgreSQL, MongoDB, SQL Query Optimization, Schema Design \\[2pt]
+\textbf{Tools \& Environment:} Git, GitHub, VS Code, Maven, Postman, Linux (Ubuntu), Agile/Scrum
+
+%-----------EXPERIENCE-----------
+\section{Professional Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{SetTribe IT Solutions}{Feb 2026 -- Jul 2026}
+{Software Developer Intern}{Pune, Maharashtra}
+\resumeItemListStart
+\resumeItem{Developed dynamic frontend interfaces using React.js with JavaScript event handling, DOM manipulation, and component-based architecture.}
+\resumeItem{Built and tested RESTful API endpoints with JWT authentication, input validation, and role-based access controls.}
+\resumeItem{Managed MySQL database integrations, wrote optimized SQL queries, and maintained data validation pipelines.}
+\resumeItem{Collaborated in Agile/Scrum sprint cycles using Git for version control, code reviews, and status reporting.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+\vspace{1pt}
+
+%-----------PROJECTS-----------
+\section{Projects}
+\resumeSubHeadingListStart
+
+\resumeProjectHeading
+{\textbf{Event Hub -- Real-Time Event Coordination Portal} $|$ \emph{Angular, JavaScript, Node.js, Socket.io, MongoDB}}{}
+\resumeItemListStart
+\resumeItem{Integrated Socket.io WebSocket layer for real-time event status broadcast to connected clients with sub-second latency.}
+\resumeItem{Designed modular Angular component architecture with dynamic UI updates, event-driven state changes, and search functionality.}
+\resumeItem{Implemented event registration workflows with Express.js REST APIs and MongoDB document persistence.}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{Restaurant Record App -- Full-Stack CRUD Application} $|$ \emph{Angular, JavaScript, Node.js, Express.js, MongoDB}}{}
+\resumeItemListStart
+\resumeItem{Developed CRUD REST APIs using Express.js and MongoDB with JWT token-based authentication for secure data access.}
+\resumeItem{Implemented Angular lazy-loading and service abstraction to optimize frontend performance and component reuse.}
+\resumeItem{Designed modular routing architecture supporting role-based visibility and dynamic content rendering.}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{Platform Surveillance \& Disk Sanitizer -- Automation Suite} $|$ \emph{Python, Psutil, OS Module, Hashlib, Bash}}{}
+\resumeItemListStart
+\resumeItem{Developed Python automation utility using Psutil and Schedule to monitor system CPU, RAM, disk, and network utilization in real-time.}
+\resumeItem{Implemented process scanning and diagnostic logging to record process metadata including PID, CPU, and memory consumption.}
+\resumeItem{Engineered duplicate file detection using MD5 cryptographic hashing with recursive filesystem traversal and automated cleanup.}
+\resumeItem{Built interactive CLI routines with cron-based scheduling, Bash integration, and exception handling for Linux system maintenance.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------
+\section{Education}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Dnyansagar Institute of Management and Research, Pune (SPPU)}{2024 -- 2026}
+{Master of Computer Applications (MCA) -- CGPA: 7.32}{Pune, Maharashtra}
+
+\resumeSubheading
+{C.T. Bora College, Shirur (SPPU)}{2021 -- 2024}
+{Bachelor of Computer Applications (BCA) -- Marks: 73.34\%}{Pune, Maharashtra}
+
+\resumeSubHeadingListEnd
+
+%-----------CERTIFICATIONS-----------
+\section{Certifications}
+\resumeItemListStart
+\resumeItem{\textbf{MongoDB Certified:} Search With MongoDB ~|~ \textbf{Python Certification}}
+\resumeItemListEnd
+
+\end{document}
+

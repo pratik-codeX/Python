@@ -1,0 +1,194 @@
+%-------------------------
+% ATS-Friendly Resume in LaTeX
+% Candidate: Pratik Nanaso Raut
+% Target Role: Software Engr I (C++ Focused)
+% Target Company: Honeywell Technologies, Bengaluru
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+
+\IfFileExists{fontawesome5.sty}{
+  \usepackage{fontawesome5}
+}{
+  \IfFileExists{fontawesome.sty}{
+    \usepackage{fontawesome}
+  }{
+    \newcommand{\faPhone}{}
+    \newcommand{\faEnvelope}{}
+    \newcommand{\faLinkedin}{}
+    \newcommand{\faGithub}{}
+  }
+}
+
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[T1]{fontenc}
+
+\ifdefined\pdfglyphtounicode
+  \input{glyphtounicode}
+  \pdfgentounicode=1
+\else
+  \ifdefined\pdfgentounicode
+    \input{glyphtounicode}
+    \pdfgentounicode=1
+  \fi
+\fi
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.65in}
+\addtolength{\evensidemargin}{-0.65in}
+\addtolength{\textwidth}{1.30in}
+\addtolength{\topmargin}{-0.92in}
+\addtolength{\textheight}{1.90in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-12pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+\newcommand{\resumeItem}[1]{\item\small{{#1 \vspace{-2.5pt}}}}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-5pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-6pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \vspace{-5pt}\item
+    \begin{tabular*}{1.0\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-6pt}
+}
+
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.15in, label=\small$\bullet$, itemsep=-0.5pt, parsep=0pt, topsep=0pt, partopsep=0pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \scshape Pratik Nanaso Raut} \\ \vspace{2pt}
+    \small Pune, Maharashtra (Open to Relocate to Bengaluru) ~|~
+    \faPhone\ +91-8600475940 ~|~
+    \href{mailto:pratikraut.codex@gmail.com}{\faEnvelope\ \underline{pratikraut.codex@gmail.com}} \\ \vspace{2pt}
+    \href{https://linkedin.com/in/pratik-codex}{\faLinkedin\ \underline{linkedin.com/in/pratik-codex}} ~|~
+    \href{https://github.com/pratik-codeX}{\faGithub\ \underline{github.com/pratik-codeX}}
+\end{center}
+
+%-----------SUMMARY-----------
+\section{Professional Summary}
+MCA graduate with strong proficiency in C/C++, object-oriented design, data structures, and Linux system programming. Built multi-threaded network servers using POSIX threads and TCP sockets, virtual file systems with inode-based memory management, and a custom SQL engine using C++ STL. Experienced in Linux/Unix development with Git version control, Agile/Scrum workflows, and build automation. Solid understanding of memory management, process internals, and network protocols (TCP/IP, UDP).
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+\vspace{1pt}
+\textbf{C/C++ \& Systems:} C, C++ (OOP, STL, Templates), Data Structures, Algorithms, Software Design Patterns \\[1.5pt]
+\textbf{Multi-Threading \& Networking:} POSIX Threads, Mutex, Semaphores, TCP/IP Socket Programming, UDP, Concurrency \\[1.5pt]
+\textbf{Memory \& OS Internals:} Memory Management, /proc Filesystem, Virtual Address Space, Inode Management, File Locking \\[1.5pt]
+\textbf{Linux \& DevOps:} Linux (Ubuntu), Bash Scripting, POSIX System Calls, Shell Automation, Git, Maven, CI/CD Concepts \\[1.5pt]
+\textbf{Backend \& Databases:} Java, Spring Boot, REST APIs, MySQL, PostgreSQL, MongoDB, SQL Query Optimization \\[1.5pt]
+\textbf{Tools \& Methodologies:} Git, GitHub, Postman, VS Code, IntelliJ IDEA, Agile/Scrum, Code Reviews, Unit Testing
+\vspace{-2pt}
+
+%-----------EXPERIENCE-----------
+\section{Professional Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{SetTribe IT Solutions}{Feb 2026 -- Jul 2026}
+{Software Developer Intern}{Pune, Maharashtra}
+\resumeItemListStart
+\resumeItem{Developed application modules using Java, Spring Boot, and MySQL within Agile/Scrum sprint cycles with daily standups.}
+\resumeItem{Designed and tested RESTful API endpoints with JWT authentication, input validation, and role-based access controls.}
+\resumeItem{Managed Git-based version control workflows including branching, merging, code reviews, and Maven build pipelines.}
+\resumeItem{Operated on Linux development environments using Bash scripting, CLI tools, and automated build/test routines.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+\resumeSubHeadingListStart
+
+\resumeProjectHeading
+{\textbf{Concurrent FTP Server -- Multi-Client File Transfer} $|$ \emph{C, POSIX Threads, TCP/IP Sockets, Multithreading}}{}
+\resumeItemListStart
+\resumeItem{Engineered concurrent client handling using POSIX threads over TCP sockets, supporting simultaneous file transfers without data corruption.}
+\resumeItem{Implemented thread-safe resource management using mutex and semaphore primitives, eliminating race conditions under concurrent load.}
+\resumeItem{Designed application-layer protocol over raw sockets handling authentication, file listing, upload, and download command sequences.}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{Customised Virtual File System (CVFS)} $|$ \emph{C++, OOP, Data Structures, OS Concepts, Memory Management}}{}
+\resumeItemListStart
+\resumeItem{Simulated Linux file system operations (open, read, write, lseek) in C++ using inode-based metadata management and a custom interactive shell.}
+\resumeItem{Achieved O(1) file lookup by designing hash table-based inode indexing with chaining for collision resolution.}
+\resumeItem{Implemented in-memory file allocation table using C++ classes managing file permissions, ownership flags, and directory traversal.}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{Customized DBMS -- Relational SQL Engine} $|$ \emph{C++, OOP, STL Containers, Data Structures, SQL}}{}
+\resumeItemListStart
+\resumeItem{Designed SQL query parser in C++ using OOP class hierarchy, supporting full DDL (CREATE, DROP) and DML (INSERT, SELECT, UPDATE, DELETE).}
+\resumeItem{Engineered B-tree indexing structure for accelerated record lookup, reducing sequential scan overhead on large in-memory datasets.}
+\resumeItem{Simulated multi-table relational schema with join operations, constraint enforcement, and memory-managed record storage using C++ STL.}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{ProcMemInspector -- Linux Process Memory Analyzer} $|$ \emph{C, /proc Filesystem, Linux Internals, Memory Management}}{}
+\resumeItemListStart
+\resumeItem{Developed /proc filesystem parser in C to extract virtual memory layout of live Linux processes (stack, heap, BSS, data, shared libraries).}
+\resumeItem{Implemented process statistics monitoring by reading /proc/[pid]/maps and /proc/[pid]/status with structured output formatting.}
+\resumeItem{Analyzed virtual address space segmentation to demonstrate memory isolation boundaries and shared library loading behavior.}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{Command Suite -- Linux Core Utilities Re-implementation} $|$ \emph{C, POSIX System Calls, Linux System Programming}}{}
+\resumeItemListStart
+\resumeItem{Re-implemented core Linux utilities (ls, ps, mv, touch, uname) using POSIX system calls including stat(), opendir(), fork(), getpid().}
+\resumeItem{Handled file permission bitmask parsing, directory traversal, process status extraction, and GNU-style argument parsing.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------
+\section{Education}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Dnyansagar Institute of Management and Research, Pune (SPPU)}{2024 -- 2026}
+{Master of Computer Applications (MCA) -- CGPA: 7.32}{Pune, Maharashtra}
+
+\resumeSubheading
+{C.T. Bora College, Shirur (SPPU)}{2021 -- 2024}
+{Bachelor of Computer Applications (BCA) -- Marks: 73.34\%}{Pune, Maharashtra}
+
+\resumeSubHeadingListEnd
+
+\end{document}

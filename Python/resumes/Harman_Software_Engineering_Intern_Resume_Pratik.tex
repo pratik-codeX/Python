@@ -1,0 +1,186 @@
+%-------------------------
+% Tailored ATS-Friendly Resume in LaTeX
+% Candidate: Pratik Nanaso Raut
+% Target Role: Software Engineering Intern (AI Tools & Web Frontends)
+% Target Company: HARMAN International
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+
+\IfFileExists{fontawesome5.sty}{
+  \usepackage{fontawesome5}
+}{
+  \IfFileExists{fontawesome.sty}{
+    \usepackage{fontawesome}
+  }{
+    \newcommand{\faPhone}{}
+    \newcommand{\faEnvelope}{}
+    \newcommand{\faLinkedin}{}
+    \newcommand{\faGithub}{}
+  }
+}
+
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[T1]{fontenc}
+
+\ifdefined\pdfglyphtounicode
+  \input{glyphtounicode}
+  \pdfgentounicode=1
+\else
+  \ifdefined\pdfgentounicode
+    \input{glyphtounicode}
+    \pdfgentounicode=1
+  \fi
+\fi
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.65in}
+\addtolength{\evensidemargin}{-0.65in}
+\addtolength{\textwidth}{1.30in}
+\addtolength{\topmargin}{-0.90in}
+\addtolength{\textheight}{1.90in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-9pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-4pt}]
+
+\newcommand{\resumeItem}[1]{\item\small{{#1 \vspace{-1.5pt}}}}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-3pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \vspace{-3pt}\item
+    \begin{tabular*}{1.0\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.16in, label=\small$\bullet$, itemsep=0.3pt, parsep=0.1pt, topsep=0.3pt, partopsep=0pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-3pt}}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \scshape Pratik Nanaso Raut} \\ \vspace{2pt}
+    \small Pune, Maharashtra ~|~
+    \faPhone\ +91-8600475940 ~|~
+    \href{mailto:pratikraut.codex@gmail.com}{\faEnvelope\ \underline{pratikraut.codex@gmail.com}} \\ \vspace{2pt}
+    \href{https://linkedin.com/in/pratik-raut-85248b319}{\faLinkedin\ \underline{linkedin.com/in/pratik-raut-85248b319}} ~|~
+    \href{https://github.com/pratik-codeX}{\faGithub\ \underline{github.com/pratik-codeX}}
+\end{center}
+
+\vspace{-6pt}
+
+%-----------SUMMARY-----------
+\section{Professional Summary}
+MCA graduate with strong technical skills in building modern web frontends using React.js and Next.js, combined with lightweight backend service development using FastAPI and SQLite. Hands-on experience leveraging AI-assisted software development tools (GitHub Copilot, LLM prompt workflows) to accelerate coding, debugging, testing, and documentation. Proficient in integrating web interfaces with RESTful APIs, designing relational database schemas, and building internal tool dashboards. Eager to contribute as a Software Engineering Intern at HARMAN.
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+\vspace{1pt}
+\textbf{Frontend Development:} React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Responsive Web UI, Component Portals \\[1.5pt]
+\textbf{Backend \& Databases:} Python 3, FastAPI, RESTful APIs, SQLite, MySQL, Schema Design, OpenAPI/Swagger \\[1.5pt]
+\textbf{AI-Assisted Engineering:} GitHub Copilot, Model Context Protocol (MCP) concepts, Agentic AI Workflows, Prompt Engineering \\[1.5pt]
+\textbf{Tools \& Environment:} Git, GitHub, Postman, VS Code, Linux (Ubuntu), Bash Scripting, Agile SDLC, Unit Testing
+\vspace{-2pt}
+
+%-----------EXPERIENCE-----------
+\section{Professional Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{SetTribe IT Solutions}{Feb 2026 -- Jul 2026}
+{Software Developer Intern}{Pune, Maharashtra}
+\resumeItemListStart
+\resumeItem{Developed interactive frontend portal components using React.js, connecting UI elements to RESTful backend services.}
+\resumeItem{Utilized AI-assisted coding tools (GitHub Copilot) for rapid code generation, systematic unit testing, and documentation.}
+\resumeItem{Designed and queried lightweight SQLite and MySQL databases, ensuring data persistence and validation for application workflows.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+\resumeSubHeadingListStart
+
+\resumeProjectHeading
+{\textbf{AI Workflow Portal \& Agentic Dashboard} $|$ \emph{React.js, Next.js, FastAPI, SQLite, MCP Concepts}}{}
+\resumeItemListStart
+\resumeItem{Architected a web frontend portal in React.js to visualize AI workflow steps, prompt execution logs, and agentic tool outputs.}
+\resumeItem{Built lightweight RESTful API endpoints using FastAPI and SQLite to persist user session logs and workflow states.}
+\resumeItem{Explored Model Context Protocol (MCP) concepts to understand how agentic tools interface with external API pipelines.}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{StudyTracker -- Academic Portal \& REST API Backend} $|$ \emph{Python, FastAPI, SQLite, React.js, REST APIs}}{}
+\resumeItemListStart
+\resumeItem{Developed a lightweight web application backend with FastAPI and SQLite for managing student records and academic workflows.}
+\resumeItem{Created REST API endpoints with payload validation, role-based controls, and clean documentation using Swagger/OpenAPI.}
+\resumeItem{Leveraged AI coding assistants (GitHub Copilot) to generate unit test suites and optimize database query performance.}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{Platform Surveillance \& System Utility} $|$ \emph{Python, Psutil, OS Module, Hashlib (MD5), File I/O}}{}
+\resumeItemListStart
+\resumeItem{Built a Python system utility using Psutil and OS module to monitor system resource utilization and process metrics in real-time.}
+\resumeItem{Developed recursive file parsing and MD5 cryptographic checksum comparison routines for automated filesystem cleanup.}
+\resumeItem{Integrated diagnostic logging and interactive CLI controls to support software validation and debugging workflows.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------
+\section{Education}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Dnyansagar Institute of Management and Research, Pune (SPPU)}{2024 -- 2026}
+{Master of Computer Applications (MCA) -- CGPA: 7.32}{Pune, Maharashtra}
+
+\resumeSubheading
+{C.T. Bora College, Shirur (SPPU)}{2021 -- 2024}
+{Bachelor of Computer Applications (BCA) -- Marks: 73.34\%}{Pune, Maharashtra}
+
+\resumeSubHeadingListEnd
+
+%-----------KEY COMPETENCIES-----------
+\section{Relevant Coursework \& AI Competencies}
+\vspace{1pt}
+\begin{itemize}[leftmargin=0.16in, label=\small$\bullet$, itemsep=0.3pt, parsep=0.1pt, topsep=0.3pt, partopsep=0pt]
+\resumeItem{\textbf{AI \& Web Engineering:} AI-Assisted Software Development, Frontend/Backend Integration, Modern Web Standards (HTML5/CSS3/JS).}
+\resumeItem{\textbf{Core Computer Science:} Data Structures \& Algorithms (DSA), Object-Oriented Programming (OOP), Database Systems (RDBMS), Agile SDLC.}
+\end{itemize}
+
+\end{document}
