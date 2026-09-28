@@ -1,0 +1,933 @@
+--------------------------------------------
+{'pid': 1, 'name': 'systemd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.1272292999459866}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2, 'name': 'kthreadd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3, 'name': 'pool_workqueue_release', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 4, 'name': 'kworker/R-rcu_gp', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 5, 'name': 'kworker/R-sync_wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 6, 'name': 'kworker/R-kvfree_rcu_reclaim', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 7, 'name': 'kworker/R-slub_flushwq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 8, 'name': 'kworker/R-netns', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 10, 'name': 'kworker/0:0H-events_highpri', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 13, 'name': 'kworker/R-mm_percpu_wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 14, 'name': 'ksoftirqd/0', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 15, 'name': 'rcu_preempt', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 16, 'name': 'rcu_exp_par_gp_kthread_worker/0', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 17, 'name': 'rcu_exp_gp_kthread_worker', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 18, 'name': 'migration/0', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 19, 'name': 'idle_inject/0', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 20, 'name': 'cpuhp/0', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 21, 'name': 'cpuhp/1', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 22, 'name': 'idle_inject/1', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 23, 'name': 'migration/1', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 24, 'name': 'ksoftirqd/1', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 25, 'name': 'kworker/1:0-mm_percpu_wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 26, 'name': 'kworker/1:0H-events_highpri', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 27, 'name': 'cpuhp/2', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 28, 'name': 'idle_inject/2', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 29, 'name': 'migration/2', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 30, 'name': 'ksoftirqd/2', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 32, 'name': 'kworker/2:0H-events_highpri', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 33, 'name': 'cpuhp/3', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 34, 'name': 'idle_inject/3', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 35, 'name': 'migration/3', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 36, 'name': 'ksoftirqd/3', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 38, 'name': 'kworker/3:0H-events_highpri', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 39, 'name': 'cpuhp/4', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 40, 'name': 'idle_inject/4', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 41, 'name': 'migration/4', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 42, 'name': 'ksoftirqd/4', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 44, 'name': 'kworker/4:0H-events_highpri', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 45, 'name': 'cpuhp/5', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 46, 'name': 'idle_inject/5', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 47, 'name': 'migration/5', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 48, 'name': 'ksoftirqd/5', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 50, 'name': 'kworker/5:0H-events_highpri', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 51, 'name': 'cpuhp/6', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 52, 'name': 'idle_inject/6', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 53, 'name': 'migration/6', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 54, 'name': 'ksoftirqd/6', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 56, 'name': 'kworker/6:0H-events_highpri', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 57, 'name': 'cpuhp/7', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 58, 'name': 'idle_inject/7', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 59, 'name': 'migration/7', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 60, 'name': 'ksoftirqd/7', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 62, 'name': 'kworker/7:0H-events_highpri', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 63, 'name': 'kdevtmpfs', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 64, 'name': 'kworker/R-inet_frag_wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 65, 'name': 'rcu_tasks_kthread', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 66, 'name': 'rcu_tasks_rude_kthread', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 67, 'name': 'rcu_tasks_trace_kthread', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 68, 'name': 'kauditd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 69, 'name': 'khungtaskd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 70, 'name': 'oom_reaper', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 73, 'name': 'kworker/R-writeback', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 74, 'name': 'kcompactd0', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 75, 'name': 'ksmd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 76, 'name': 'khugepaged', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 77, 'name': 'kworker/R-kblockd', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 78, 'name': 'kworker/R-blkcg_punt_bio', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 79, 'name': 'kworker/R-kintegrityd', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 80, 'name': 'irq/9-acpi', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 83, 'name': 'kworker/R-tpm_dev_wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 84, 'name': 'kworker/R-ata_sff', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 85, 'name': 'kworker/R-md', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 86, 'name': 'kworker/R-md_bitmap', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 87, 'name': 'kworker/R-edac-poller', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 88, 'name': 'kworker/R-devfreq_wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 89, 'name': 'watchdogd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 90, 'name': 'kworker/R-quota_events_unbound', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 91, 'name': 'kworker/0:1H-kblockd', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 92, 'name': 'kswapd0', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 93, 'name': 'ecryptfs-kthread', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 94, 'name': 'kworker/R-kthrotld', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 95, 'name': 'irq/122-aerdrv', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 96, 'name': 'irq/122-pcie-dpc', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 97, 'name': 'irq/123-aerdrv', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 98, 'name': 'irq/123-pcie-dpc', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 99, 'name': 'kworker/R-acpi_thermal_pm', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 100, 'name': 'hwrng', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 101, 'name': 'kworker/R-mld', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 102, 'name': 'kworker/3:1H-i915_cleanup', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 103, 'name': 'kworker/R-ipv6_addrconf', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 104, 'name': 'kworker/R-kstrp', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 110, 'name': 'kworker/u33:0-i915_flip', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 123, 'name': 'kworker/R-charger_manager', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 149, 'name': 'kworker/2:1H-i915_cleanup', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 173, 'name': 'kworker/1:1H-i915_cleanup', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 186, 'name': 'kworker/4:1H-kblockd', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 187, 'name': 'kworker/5:1H-kblockd', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 188, 'name': 'kworker/7:1H-i915_cleanup', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 189, 'name': 'kworker/6:1H-i915_cleanup', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 191, 'name': 'kworker/5:1-mm_percpu_wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 239, 'name': 'irq/152-SYNA7DB5:01', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 241, 'name': 'irq/153-aerdrv', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 242, 'name': 'irq/153-pcie-dpc', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 243, 'name': 'scsi_eh_0', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 244, 'name': 'kworker/R-scsi_tmf_0', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 245, 'name': 'scsi_eh_1', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 246, 'name': 'kworker/R-scsi_tmf_1', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 247, 'name': 'kworker/R-nvme-wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 248, 'name': 'kworker/R-nvme-reset-wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 249, 'name': 'kworker/R-nvme-delete-wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 250, 'name': 'kworker/R-nvme-auth-wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 277, 'name': 'kworker/3:2-i915-unordered', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 314, 'name': 'jbd2/nvme0n1p8-8', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 315, 'name': 'kworker/R-ext4-rsv-conversion', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 369, 'name': 'systemd-journald', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.1567486274511109}
+--------------------------------------------
+--------------------------------------------
+{'pid': 404, 'name': 'systemd-udevd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.07710967511766964}
+--------------------------------------------
+--------------------------------------------
+{'pid': 445, 'name': 'psimon', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 557, 'name': 'kworker/2:2-i915-unordered', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 573, 'name': 'irq/164-mei_me', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 599, 'name': 'kworker/R-cfg80211', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 694, 'name': 'napi/phy0-0', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 695, 'name': 'napi/phy0-0', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 696, 'name': 'napi/phy0-0', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 703, 'name': 'kworker/R-ttm', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 704, 'name': 'card1-crtc0', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 705, 'name': 'card1-crtc1', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 706, 'name': 'card1-crtc2', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 707, 'name': 'card1-crtc3', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 845, 'name': 'irq/167-AudioDSP', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 847, 'name': 'systemd-oomd', 'status': 'sleeping', 'username': 'systemd-oom', 'cpu_percent': 0.0, 'memory_percent': 0.06389752966159934}
+--------------------------------------------
+--------------------------------------------
+{'pid': 849, 'name': 'systemd-resolved', 'status': 'sleeping', 'username': 'systemd-resolve', 'cpu_percent': 0.0, 'memory_percent': 0.10992371899597013}
+--------------------------------------------
+--------------------------------------------
+{'pid': 850, 'name': 'systemd-timesyncd', 'status': 'sleeping', 'username': 'systemd-timesync', 'cpu_percent': 0.0, 'memory_percent': 0.06619384713381307}
+--------------------------------------------
+--------------------------------------------
+{'pid': 964, 'name': 'avahi-daemon', 'status': 'sleeping', 'username': 'avahi', 'cpu_percent': 0.0, 'memory_percent': 0.03910395695436418}
+--------------------------------------------
+--------------------------------------------
+{'pid': 969, 'name': 'bluetoothd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.057274816951881496}
+--------------------------------------------
+--------------------------------------------
+{'pid': 972, 'name': 'dbus-daemon', 'status': 'sleeping', 'username': 'messagebus', 'cpu_percent': 0.0, 'memory_percent': 0.0643967291120806}
+--------------------------------------------
+--------------------------------------------
+{'pid': 995, 'name': 'gnome-remote-desktop-daemon', 'status': 'sleeping', 'username': 'gnome-remote-desktop', 'cpu_percent': 0.0, 'memory_percent': 0.1383780876734011}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1015, 'name': 'polkitd', 'status': 'sleeping', 'username': 'polkitd', 'cpu_percent': 0.0, 'memory_percent': 0.10330100628625227}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1020, 'name': 'power-profiles-daemon', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0666597666209289}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1043, 'name': 'snapd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.36171992181871004}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1056, 'name': 'accounts-daemon', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.08493046650854247}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1058, 'name': 'cron', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.02442749311021558}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1062, 'name': 'switcheroo-control', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0581068160360169}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1077, 'name': 'systemd-logind', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.07787511427507421}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1082, 'name': 'thermald', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.09388277665383946}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1091, 'name': 'udisksd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.12726257990935205}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1123, 'name': 'avahi-daemon', 'status': 'sleeping', 'username': 'avahi', 'cpu_percent': 0.0, 'memory_percent': 0.01267966604222362}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1128, 'name': 'NetworkManager', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.1726564499397799}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1139, 'name': 'wpa_supplicant', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.1019365277882702}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1174, 'name': 'rsyslogd', 'status': 'sleeping', 'username': 'syslog', 'cpu_percent': 0.0, 'memory_percent': 0.05620985812418818}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1298, 'name': 'ModemManager', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.10872564031481513}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1319, 'name': 'mt76-tx phy0', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1407, 'name': 'cupsd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.10696180225644807}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1411, 'name': 'run-cups-browse', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.014743023770879434}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1416, 'name': 'run-cupsd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.015075823404533594}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1419, 'name': 'unattended-upgr', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.2066685724992354}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1446, 'name': 'gdm3', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.07810807401863212}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1458, 'name': 'postgres', 'status': 'sleeping', 'username': 'postgres', 'cpu_percent': 0.0, 'memory_percent': 0.25246180209004826}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1483, 'name': 'mysqld', 'status': 'sleeping', 'username': 'mysql', 'cpu_percent': 0.0, 'memory_percent': 3.3182120273122004}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1492, 'name': 'postgres', 'status': 'sleeping', 'username': 'postgres', 'cpu_percent': 0.0, 'memory_percent': 0.07284983980689634}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1493, 'name': 'postgres', 'status': 'sleeping', 'username': 'postgres', 'cpu_percent': 0.0, 'memory_percent': 0.060769213105250214}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1495, 'name': 'psimon', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1496, 'name': 'postgres', 'status': 'sleeping', 'username': 'postgres', 'cpu_percent': 0.0, 'memory_percent': 0.0853963859956583}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1497, 'name': 'postgres', 'status': 'sleeping', 'username': 'postgres', 'cpu_percent': 0.0, 'memory_percent': 0.0713522414554526}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1498, 'name': 'postgres', 'status': 'sleeping', 'username': 'postgres', 'cpu_percent': 0.0, 'memory_percent': 0.06669304658429433}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1574, 'name': 'rtkit-daemon', 'status': 'sleeping', 'username': 'rtkit', 'cpu_percent': 0.0, 'memory_percent': 0.0293529276882972}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1641, 'name': 'krfcommd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1754, 'name': 'colord', 'status': 'sleeping', 'username': 'colord', 'cpu_percent': 0.0, 'memory_percent': 0.12080626701646126}
+--------------------------------------------
+--------------------------------------------
+{'pid': 1899, 'name': 'upowerd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.08842486266191117}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2233, 'name': 'cupsd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.10649588276933225}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2234, 'name': 'cups-proxyd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.08532982606892746}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2317, 'name': 'run-cups-browse', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.008652790475008245}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2327, 'name': 'gdm-session-worker', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.09724405295374651}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2328, 'name': 'cups-browsed', 'status': 'sleeping', 'username': 'cups-browsed', 'cpu_percent': 0.0, 'memory_percent': 0.16456941884198373}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2333, 'name': 'kerneloops', 'status': 'sleeping', 'username': 'kernoops', 'cpu_percent': 0.0, 'memory_percent': 0.02030077765290396}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2336, 'name': 'kerneloops', 'status': 'sleeping', 'username': 'kernoops', 'cpu_percent': 0.0, 'memory_percent': 0.019435498605403136}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2362, 'name': 'systemd', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.10882548020491138}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2367, 'name': '(sd-pam)', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.030284766662528856}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2379, 'name': 'pipewire', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.13524977111705197}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2380, 'name': 'pipewire', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.05088506398572156}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2385, 'name': 'user-session-helper', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.05541113900341819}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2387, 'name': 'wireplumber', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.15362031089476177}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2388, 'name': 'pipewire-pulse', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.11954162840857543}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2390, 'name': 'gnome-keyring-daemon', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.08922358178268117}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2400, 'name': 'dbus-daemon', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.05597689838063026}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2446, 'name': 'xdg-document-portal', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.06562808775660099}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2450, 'name': 'xdg-permission-store', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.05284858182428113}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2457, 'name': 'fusermount3', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.01757182065693982}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2481, 'name': 'gdm-wayland-session', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.052715461970819465}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2491, 'name': 'gnome-session-binary', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.137812328296189}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2570, 'name': 'gcr-ssh-agent', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.05963769435082606}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2571, 'name': 'gnome-session-ctl', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.04775674742937243}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2585, 'name': 'gvfsd', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.06925560376343137}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2593, 'name': 'gvfsd-fuse', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.060802493068615626}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2596, 'name': 'gnome-session-binary', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.15278831181062635}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2635, 'name': 'at-spi-bus-launcher', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.06672632654765974}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2649, 'name': 'dbus-daemon', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.04392955164234955}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2650, 'name': 'gnome-shell', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 2.890231698432946}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2748, 'name': 'at-spi2-registryd', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.06509560834275434}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2784, 'name': 'gnome-shell-calendar-server', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.14766319745235224}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2791, 'name': 'evolution-source-registry', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.7353873504856047}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2806, 'name': 'gjs', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.2268362302986777}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2821, 'name': 'ibus-daemon', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.10513140427135018}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2822, 'name': 'gsd-a11y-settings', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.057674176512266494}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2826, 'name': 'gsd-color', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.17139181133189407}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2830, 'name': 'gsd-datetime', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.10373364581000269}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2832, 'name': 'gsd-housekeeping', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.06792440522881472}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2834, 'name': 'gsd-keyboard', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.16759789550823664}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2837, 'name': 'gsd-media-keys', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.21232616627135614}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2838, 'name': 'gsd-power', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.20244201715182752}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2839, 'name': 'gsd-print-notifications', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.09860853145172857}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2841, 'name': 'gsd-rfkill', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.058306495816209405}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2845, 'name': 'gsd-screensaver-proxy', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.054213060322263196}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2852, 'name': 'gsd-sharing', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.10476532467433061}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2853, 'name': 'gsd-smartcard', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.07018744273766303}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2854, 'name': 'gsd-sound', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.08323318837690623}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2857, 'name': 'gsd-wacom', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.1722238104160295}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2868, 'name': 'gvfs-udisks2-volume-monitor', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.09577973456566818}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2873, 'name': 'gsd-disk-utility-notify', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.06935544365352762}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2878, 'name': 'evolution-alarm-notify', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.8586230548277414}
+--------------------------------------------
+--------------------------------------------
+{'pid': 2972, 'name': 'goa-daemon', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.3028143866619232}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3006, 'name': 'gsd-printer', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.1273956997628137}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3031, 'name': 'goa-identity-service', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.08003831189382626}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3047, 'name': 'evolution-calendar-factory', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.2044388149537525}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3053, 'name': 'gvfs-mtp-volume-monitor', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.05660921768457318}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3065, 'name': 'gvfs-goa-volume-monitor', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.062399931310155615}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3075, 'name': 'evolution-addressbook-factory', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.25076452395841203}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3079, 'name': 'gvfs-gphoto2-volume-monitor', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.058838975230056066}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3081, 'name': 'ibus-dconf', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.06170105207948187}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3082, 'name': 'ibus-extension-gtk3', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.24693732817138914}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3084, 'name': 'ibus-portal', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.06116857266563521}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3105, 'name': 'gvfs-afc-volume-monitor', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.06852344456939222}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3137, 'name': 'ibus-engine-simple', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.06296569068736768}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3159, 'name': 'dconf-service', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.053148101494569874}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3181, 'name': 'tracker-miner-fs-3', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.46249165088919064}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3193, 'name': 'gjs', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.22520551209377226}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3226, 'name': 'gjs', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.6923563578541213}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3284, 'name': 'nautilus', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 1.606490391575377}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3288, 'name': 'gvfsd-trash', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.0768434354107463}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3303, 'name': 'gvfsd-metadata', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.07022072270102846}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3309, 'name': 'xdg-desktop-portal', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.12426738320646456}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3322, 'name': 'xdg-desktop-portal-gnome', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 1.3178199893437559}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3336, 'name': 'xdg-desktop-portal-gtk', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.23399142242224222}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3344, 'name': 'snapd-desktop-integration', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.2999855897758628}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3401, 'name': 'gvfsd-recent', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.09068790017075949}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3490, 'name': 'gnome-terminal-server', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.6335506625874305}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3498, 'name': 'bash', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.08090359094132708}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3601, 'name': 'update-notifier', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.27076578194102724}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3816, 'name': 'code', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 2.092644096417379}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3818, 'name': 'code', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.45942989425957237}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3819, 'name': 'code', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.4585313352487062}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3834, 'name': 'chrome_crashpad_handler', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.03830523783359419}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3837, 'name': 'Xwayland', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.8458102689320559}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3848, 'name': 'gsd-xsettings', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.6579115957709154}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3872, 'name': 'ibus-x11', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.20893161000808372}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3878, 'name': 'mutter-x11-frames', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.6812741300534376}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3902, 'name': 'code', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.7263352004502114}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3977, 'name': 'code', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 4.668546540863968}
+--------------------------------------------
+--------------------------------------------
+{'pid': 3998, 'name': 'code', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.8384553970282989}
+--------------------------------------------
+--------------------------------------------
+{'pid': 4029, 'name': 'code', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 1.2416088732369523}
+--------------------------------------------
+--------------------------------------------
+{'pid': 4084, 'name': 'dconf', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.05158394321639531}
+--------------------------------------------
+--------------------------------------------
+{'pid': 4096, 'name': 'code', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 1.102897985929897}
+--------------------------------------------
+--------------------------------------------
+{'pid': 4471, 'name': 'gvfsd-network', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.0748133576454559}
+--------------------------------------------
+--------------------------------------------
+{'pid': 4479, 'name': 'gvfsd-dnssd', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.07754231464142004}
+--------------------------------------------
+--------------------------------------------
+{'pid': 5942, 'name': 'code', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 6.0672701211490505}
+--------------------------------------------
+--------------------------------------------
+{'pid': 5956, 'name': 'code', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 1.0630285898181282}
+--------------------------------------------
+--------------------------------------------
+{'pid': 5986, 'name': 'bash', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.07657719570382296}
+--------------------------------------------
+--------------------------------------------
+{'pid': 6147, 'name': 'pet', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.05461241988264819}
+--------------------------------------------
+--------------------------------------------
+{'pid': 6263, 'name': 'bash', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.07674359552065005}
+--------------------------------------------
+--------------------------------------------
+{'pid': 6297, 'name': 'codex', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.6475615271642708}
+--------------------------------------------
+--------------------------------------------
+{'pid': 6704, 'name': 'code', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 1.444949449399646}
+--------------------------------------------
+--------------------------------------------
+{'pid': 6756, 'name': 'code', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 6.24385360676595}
+--------------------------------------------
+--------------------------------------------
+{'pid': 6775, 'name': 'bash', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.08083703101459626}
+--------------------------------------------
+--------------------------------------------
+{'pid': 6882, 'name': 'bash', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.08113655068488501}
+--------------------------------------------
+--------------------------------------------
+{'pid': 7488, 'name': 'bash', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.07677687548401546}
+--------------------------------------------
+--------------------------------------------
+{'pid': 7588, 'name': 'python', 'status': 'sleeping', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.10666228258615933}
+--------------------------------------------
+--------------------------------------------
+{'pid': 8032, 'name': 'kworker/1:2', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 8189, 'name': 'fwupd', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.388011092877389}
+--------------------------------------------
+--------------------------------------------
+{'pid': 9088, 'name': 'kworker/6:2-mm_percpu_wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 9297, 'name': 'kworker/5:0-events', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 9298, 'name': 'python3', 'status': 'stopped', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.12346866408569457}
+--------------------------------------------
+--------------------------------------------
+{'pid': 9301, 'name': 'python3', 'status': 'stopped', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.12330226426886749}
+--------------------------------------------
+--------------------------------------------
+{'pid': 9379, 'name': 'kworker/4:1-events', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 9774, 'name': 'python3', 'status': 'stopped', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.12373490379261791}
+--------------------------------------------
+--------------------------------------------
+{'pid': 9901, 'name': 'kworker/u32:1-events_power_efficient', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 9907, 'name': 'kworker/7:0-mm_percpu_wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 10025, 'name': 'python3', 'status': 'stopped', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.12320242437877124}
+--------------------------------------------
+--------------------------------------------
+{'pid': 10050, 'name': 'python3', 'status': 'stopped', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.12333554423223292}
+--------------------------------------------
+--------------------------------------------
+{'pid': 10180, 'name': 'python3', 'status': 'stopped', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.1245336229133879}
+--------------------------------------------
+--------------------------------------------
+{'pid': 10296, 'name': 'python3', 'status': 'stopped', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.12436722309656081}
+--------------------------------------------
+--------------------------------------------
+{'pid': 10520, 'name': 'kworker/u32:2-mt76', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 10522, 'name': 'kworker/0:2-cgwb_release', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 10565, 'name': 'kworker/4:0', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 10566, 'name': 'sleep', 'status': 'sleeping', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.015208943257995263}
+--------------------------------------------
+--------------------------------------------
+{'pid': 10601, 'name': 'kworker/3:0-cgroup_free', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 10602, 'name': 'python3', 'status': 'stopped', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.12410098338963749}
+--------------------------------------------
+--------------------------------------------
+{'pid': 11337, 'name': 'kworker/7:1', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 11340, 'name': 'python3', 'status': 'stopped', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.12383474368271416}
+--------------------------------------------
+--------------------------------------------
+{'pid': 11378, 'name': 'kworker/u32:3-events_unbound', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 11421, 'name': 'python3', 'status': 'stopped', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.1249662624371383}
+--------------------------------------------
+--------------------------------------------
+{'pid': 11564, 'name': 'kworker/6:1', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 11669, 'name': 'kworker/0:0-i915-unordered', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 11674, 'name': 'kworker/u33:1', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 11800, 'name': 'kworker/2:1-i915-unordered', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 11821, 'name': 'kworker/u32:0-ipv6_addrconf', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 11911, 'name': 'kworker/3:1-cgroup_free', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 11913, 'name': 'kworker/u32:4-mt76', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 12011, 'name': 'kworker/0:1-mm_percpu_wq', 'status': 'idle', 'username': 'root', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+--------------------------------------------
+--------------------------------------------
+{'pid': 12034, 'name': 'python3', 'status': 'running', 'username': 'pratik', 'cpu_percent': 0.0, 'memory_percent': 0.1289931380043537}
+--------------------------------------------
+--------------------------------------------------
+--------Marvellous Platform Survillence System--------
+--------------------------------------------------
+Invalid Number of Arguments!!!
+Unable to Proceed as Arguments are not matching
+Please use --h or --u flag for getting more details
+--------------------------------------------------
+------Thank You For Using our Automation System------
+--------------------------------------------------

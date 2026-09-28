@@ -1,0 +1,22 @@
+resumes/
+intel-gpu-venv/
+intel-xpu-venv/
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML/DL generated files
+*.h5
+*.keras
+*.pth
+*.pt
+*.onnx
