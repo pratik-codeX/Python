@@ -1,0 +1,2412 @@
+--------------------------------------------------
+--------Marvellous Platform Survillence System--------
+Log File gets created at : 2026-09-26_07:27:21
+--------------------------------------------------
+
+--------------------System Reports----------------------
+Number of Active Cores are  :8 
+CPU usage :4.0 %
+--------------------------------------------------
+RAM usage : 67.7 % 
+Total RAM available : 12304379904 
+--------------------------------------------------
+Network Usage Report
+Send : 1929.77 MB
+Receive : 5550.78 MB
+--------------------------------------------------
+PID : 1
+Name : systemd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0847
+--------------------------------------------------
+PID : 2
+Name : kthreadd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 3
+Name : pool_workqueue_release
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 4
+Name : kworker/R-rcu_gp
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 5
+Name : kworker/R-sync_wq
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 6
+Name : kworker/R-kvfree_rcu_reclaim
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 7
+Name : kworker/R-slub_flushwq
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 8
+Name : kworker/R-netns
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 10
+Name : kworker/0:0H-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 13
+Name : kworker/R-mm_percpu_wq
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 14
+Name : ksoftirqd/0
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 15
+Name : rcu_preempt
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 16
+Name : rcu_exp_par_gp_kthread_worker/0
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 17
+Name : rcu_exp_gp_kthread_worker
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 18
+Name : migration/0
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 19
+Name : kprobe-optimizer
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 20
+Name : idle_inject/0
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 21
+Name : cpuhp/0
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 22
+Name : cpuhp/1
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 23
+Name : idle_inject/1
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 24
+Name : migration/1
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 25
+Name : ksoftirqd/1
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 27
+Name : kworker/1:0H-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 28
+Name : cpuhp/2
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 29
+Name : idle_inject/2
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 30
+Name : migration/2
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 31
+Name : ksoftirqd/2
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 33
+Name : kworker/2:0H-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 34
+Name : cpuhp/3
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 35
+Name : idle_inject/3
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 36
+Name : migration/3
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 37
+Name : ksoftirqd/3
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 39
+Name : kworker/3:0H-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 40
+Name : cpuhp/4
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 41
+Name : idle_inject/4
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 42
+Name : migration/4
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 43
+Name : ksoftirqd/4
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 45
+Name : kworker/4:0H-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 46
+Name : cpuhp/5
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 47
+Name : idle_inject/5
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 48
+Name : migration/5
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 49
+Name : ksoftirqd/5
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 51
+Name : kworker/5:0H-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 52
+Name : cpuhp/6
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 53
+Name : idle_inject/6
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 54
+Name : migration/6
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 55
+Name : ksoftirqd/6
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 57
+Name : kworker/6:0H-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 58
+Name : cpuhp/7
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 59
+Name : idle_inject/7
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 60
+Name : migration/7
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 61
+Name : ksoftirqd/7
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 63
+Name : kworker/7:0H-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 64
+Name : kdevtmpfs
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 65
+Name : kworker/R-inet_frag_wq
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 66
+Name : rcu_tasks_kthread
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 67
+Name : rcu_tasks_rude_kthread
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 68
+Name : kauditd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 69
+Name : khungtaskd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 70
+Name : oom_reaper
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 73
+Name : kworker/R-writeback
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 74
+Name : kcompactd0
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 75
+Name : ksmd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 76
+Name : khugepaged
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 77
+Name : kworker/R-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 78
+Name : kworker/R-blkcg_punt_bio
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 79
+Name : kworker/R-kintegrityd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 82
+Name : irq/9-acpi
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 84
+Name : kworker/R-tpm_dev_wq
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 85
+Name : kworker/R-ata_sff
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 86
+Name : kworker/R-md_bitmap
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 87
+Name : kworker/R-md_llbitmap_io
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 88
+Name : kworker/R-md_llbitmap_unplug
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 89
+Name : kworker/R-edac-poller
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 90
+Name : kworker/R-devfreq_wq
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 91
+Name : watchdogd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 92
+Name : kworker/R-quota_events_unbound
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 94
+Name : kswapd0
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 95
+Name : ecryptfs-kthread
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 97
+Name : kworker/R-kthrotld
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 99
+Name : irq/122-aerdrv
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 100
+Name : irq/122-pcie-dpc
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 101
+Name : irq/123-aerdrv
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 102
+Name : irq/123-pcie-dpc
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 103
+Name : kworker/R-acpi_thermal_pm
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 105
+Name : hwrng
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 106
+Name : kworker/R-mld
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 107
+Name : kworker/R-ipv6_addrconf
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 108
+Name : kworker/R-kstrp
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 123
+Name : kworker/R-charger_manager
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 234
+Name : irq/152-SYNA7DB5:01
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 235
+Name : irq/153-aerdrv
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 236
+Name : irq/153-pcie-dpc
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 238
+Name : scsi_eh_0
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 239
+Name : kworker/R-scsi_tmf_0
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 240
+Name : scsi_eh_1
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 241
+Name : kworker/R-scsi_tmf_1
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 242
+Name : kworker/R-nvme-wq
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 243
+Name : kworker/R-nvme-reset-wq
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 244
+Name : kworker/R-nvme-delete-wq
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 245
+Name : kworker/R-nvme-auth-wq
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 309
+Name : kworker/7:1H-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 311
+Name : jbd2/nvme0n1p8-8
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 312
+Name : kworker/R-ext4-rsv-conversion
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 326
+Name : kworker/4:1H-i915_cleanup
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 354
+Name : kworker/6:1H-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 368
+Name : systemd-journald
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.3312
+--------------------------------------------------
+PID : 400
+Name : kworker/1:1H-i915_cleanup
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 402
+Name : kworker/3:1H-i915_cleanup
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 405
+Name : systemd-udevd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0473
+--------------------------------------------------
+PID : 413
+Name : kworker/0:1H-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 416
+Name : kworker/2:1H-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 435
+Name : kworker/5:1H-kblockd
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 465
+Name : psimon
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 607
+Name : kworker/R-cfg80211
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 648
+Name : kworker/R-ttm
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 654
+Name : card1-crtc0
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 655
+Name : card1-crtc1
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 656
+Name : card1-crtc2
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 657
+Name : card1-crtc3
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 835
+Name : napi/phy0-0
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 836
+Name : napi/phy0-0
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 837
+Name : napi/phy0-0
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 839
+Name : systemd-oomd
+User Name : systemd-oom
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0242
+--------------------------------------------------
+PID : 840
+Name : systemd-resolved
+User Name : systemd-resolve
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0517
+--------------------------------------------------
+PID : 841
+Name : systemd-timesyncd
+User Name : systemd-timesync
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0277
+--------------------------------------------------
+PID : 951
+Name : avahi-daemon
+User Name : avahi
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0172
+--------------------------------------------------
+PID : 954
+Name : bluetoothd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0283
+--------------------------------------------------
+PID : 957
+Name : dbus-daemon
+User Name : messagebus
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0382
+--------------------------------------------------
+PID : 972
+Name : gnome-remote-desktop-daemon
+User Name : gnome-remote-desktop
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0288
+--------------------------------------------------
+PID : 992
+Name : polkitd
+User Name : polkitd
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.1002
+--------------------------------------------------
+PID : 1000
+Name : power-profiles-daemon
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0341
+--------------------------------------------------
+PID : 1020
+Name : snapd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.1827
+--------------------------------------------------
+PID : 1025
+Name : accounts-daemon
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0349
+--------------------------------------------------
+PID : 1031
+Name : cron
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0117
+--------------------------------------------------
+PID : 1033
+Name : switcheroo-control
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0252
+--------------------------------------------------
+PID : 1045
+Name : systemd-logind
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0364
+--------------------------------------------------
+PID : 1046
+Name : thermald
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0339
+--------------------------------------------------
+PID : 1047
+Name : udisksd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0613
+--------------------------------------------------
+PID : 1067
+Name : irq/167-AudioDSP
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 1095
+Name : avahi-daemon
+User Name : avahi
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0006
+--------------------------------------------------
+PID : 1097
+Name : NetworkManager
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0857
+--------------------------------------------------
+PID : 1100
+Name : wpa_supplicant
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0672
+--------------------------------------------------
+PID : 1176
+Name : rsyslogd
+User Name : syslog
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0307
+--------------------------------------------------
+PID : 1292
+Name : ModemManager
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0528
+--------------------------------------------------
+PID : 1312
+Name : mt76-tx phy0
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 1413
+Name : run-cups-browse
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0010
+--------------------------------------------------
+PID : 1417
+Name : run-cupsd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0012
+--------------------------------------------------
+PID : 1420
+Name : unattended-upgr
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0221
+--------------------------------------------------
+PID : 1447
+Name : gdm3
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0357
+--------------------------------------------------
+PID : 1472
+Name : postgres
+User Name : postgres
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0406
+--------------------------------------------------
+PID : 1480
+Name : postgres
+User Name : postgres
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0137
+--------------------------------------------------
+PID : 1481
+Name : postgres
+User Name : postgres
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0130
+--------------------------------------------------
+PID : 1484
+Name : postgres
+User Name : postgres
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0076
+--------------------------------------------------
+PID : 1485
+Name : postgres
+User Name : postgres
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0276
+--------------------------------------------------
+PID : 1486
+Name : postgres
+User Name : postgres
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0252
+--------------------------------------------------
+PID : 1535
+Name : rtkit-daemon
+User Name : rtkit
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0195
+--------------------------------------------------
+PID : 1612
+Name : krfcommd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 1728
+Name : colord
+User Name : colord
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0255
+--------------------------------------------------
+PID : 1869
+Name : upowerd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0575
+--------------------------------------------------
+PID : 2281
+Name : cupsd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0129
+--------------------------------------------------
+PID : 2282
+Name : cups-proxyd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0122
+--------------------------------------------------
+PID : 2293
+Name : run-cups-browse
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0070
+--------------------------------------------------
+PID : 2295
+Name : gdm-session-worker
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0551
+--------------------------------------------------
+PID : 2308
+Name : systemd
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0669
+--------------------------------------------------
+PID : 2315
+Name : (sd-pam)
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 2328
+Name : pipewire
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0889
+--------------------------------------------------
+PID : 2329
+Name : pipewire
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0074
+--------------------------------------------------
+PID : 2331
+Name : user-session-helper
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0008
+--------------------------------------------------
+PID : 2332
+Name : wireplumber
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0858
+--------------------------------------------------
+PID : 2333
+Name : pipewire-pulse
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.1892
+--------------------------------------------------
+PID : 2335
+Name : gnome-keyring-daemon
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0536
+--------------------------------------------------
+PID : 2348
+Name : dbus-daemon
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0370
+--------------------------------------------------
+PID : 2396
+Name : xdg-document-portal
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0381
+--------------------------------------------------
+PID : 2400
+Name : xdg-permission-store
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0272
+--------------------------------------------------
+PID : 2407
+Name : fusermount3
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0001
+--------------------------------------------------
+PID : 2430
+Name : gdm-wayland-session
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0253
+--------------------------------------------------
+PID : 2440
+Name : gnome-session-binary
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0091
+--------------------------------------------------
+PID : 2516
+Name : gcr-ssh-agent
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0036
+--------------------------------------------------
+PID : 2517
+Name : gnome-session-ctl
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0026
+--------------------------------------------------
+PID : 2532
+Name : gvfsd
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0366
+--------------------------------------------------
+PID : 2539
+Name : gvfsd-fuse
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0320
+--------------------------------------------------
+PID : 2542
+Name : gnome-session-binary
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0537
+--------------------------------------------------
+PID : 2584
+Name : at-spi-bus-launcher
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0293
+--------------------------------------------------
+PID : 2594
+Name : gnome-shell
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 2.2317
+--------------------------------------------------
+PID : 2596
+Name : dbus-daemon
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0195
+--------------------------------------------------
+PID : 2701
+Name : at-spi2-registryd
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0307
+--------------------------------------------------
+PID : 2734
+Name : kerneloops
+User Name : kernoops
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0100
+--------------------------------------------------
+PID : 2737
+Name : kerneloops
+User Name : kernoops
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0112
+--------------------------------------------------
+PID : 2757
+Name : gnome-shell-calendar-server
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0434
+--------------------------------------------------
+PID : 2764
+Name : evolution-source-registry
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0627
+--------------------------------------------------
+PID : 2778
+Name : gjs
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.1303
+--------------------------------------------------
+PID : 2784
+Name : ibus-daemon
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0518
+--------------------------------------------------
+PID : 2786
+Name : gsd-a11y-settings
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0275
+--------------------------------------------------
+PID : 2789
+Name : gsd-color
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0460
+--------------------------------------------------
+PID : 2791
+Name : gsd-datetime
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0320
+--------------------------------------------------
+PID : 2800
+Name : gsd-housekeeping
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0366
+--------------------------------------------------
+PID : 2804
+Name : gsd-keyboard
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0379
+--------------------------------------------------
+PID : 2812
+Name : gsd-media-keys
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0736
+--------------------------------------------------
+PID : 2813
+Name : gsd-power
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0740
+--------------------------------------------------
+PID : 2818
+Name : gsd-print-notifications
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0327
+--------------------------------------------------
+PID : 2821
+Name : gsd-rfkill
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0281
+--------------------------------------------------
+PID : 2825
+Name : gsd-screensaver-proxy
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0314
+--------------------------------------------------
+PID : 2826
+Name : gsd-sharing
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0442
+--------------------------------------------------
+PID : 2827
+Name : gsd-smartcard
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0274
+--------------------------------------------------
+PID : 2828
+Name : gsd-sound
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0299
+--------------------------------------------------
+PID : 2830
+Name : gsd-wacom
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0391
+--------------------------------------------------
+PID : 2832
+Name : goa-daemon
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0891
+--------------------------------------------------
+PID : 2846
+Name : gsd-disk-utility-notify
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0375
+--------------------------------------------------
+PID : 2852
+Name : evolution-alarm-notify
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0720
+--------------------------------------------------
+PID : 2953
+Name : ibus-dconf
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0246
+--------------------------------------------------
+PID : 2955
+Name : ibus-extension-gtk3
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0492
+--------------------------------------------------
+PID : 2960
+Name : ibus-portal
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0275
+--------------------------------------------------
+PID : 2982
+Name : goa-identity-service
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0262
+--------------------------------------------------
+PID : 2983
+Name : gvfs-udisks2-volume-monitor
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0651
+--------------------------------------------------
+PID : 3035
+Name : evolution-calendar-factory
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0524
+--------------------------------------------------
+PID : 3043
+Name : gvfs-mtp-volume-monitor
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0355
+--------------------------------------------------
+PID : 3050
+Name : gsd-printer
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0357
+--------------------------------------------------
+PID : 3063
+Name : gvfs-goa-volume-monitor
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0332
+--------------------------------------------------
+PID : 3077
+Name : evolution-addressbook-factory
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0516
+--------------------------------------------------
+PID : 3081
+Name : gvfs-gphoto2-volume-monitor
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0363
+--------------------------------------------------
+PID : 3095
+Name : gvfs-afc-volume-monitor
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0279
+--------------------------------------------------
+PID : 3144
+Name : ibus-engine-simple
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0353
+--------------------------------------------------
+PID : 3167
+Name : dconf-service
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0347
+--------------------------------------------------
+PID : 3191
+Name : tracker-miner-fs-3
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.2231
+--------------------------------------------------
+PID : 3205
+Name : gjs
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.1264
+--------------------------------------------------
+PID : 3246
+Name : Xwayland
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.3197
+--------------------------------------------------
+PID : 3321
+Name : gsd-xsettings
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0680
+--------------------------------------------------
+PID : 3366
+Name : ibus-x11
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0650
+--------------------------------------------------
+PID : 3419
+Name : mutter-x11-frames
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.2060
+--------------------------------------------------
+PID : 3423
+Name : gvfsd-trash
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0500
+--------------------------------------------------
+PID : 3463
+Name : gvfsd-metadata
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0549
+--------------------------------------------------
+PID : 3469
+Name : xdg-desktop-portal
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0640
+--------------------------------------------------
+PID : 3475
+Name : xdg-desktop-portal-gnome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 3.9552
+--------------------------------------------------
+PID : 3554
+Name : xdg-desktop-portal-gtk
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0565
+--------------------------------------------------
+PID : 3562
+Name : snapd-desktop-integration
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0726
+--------------------------------------------------
+PID : 3629
+Name : gvfsd-recent
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0606
+--------------------------------------------------
+PID : 4422
+Name : update-notifier
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.1471
+--------------------------------------------------
+PID : 6350
+Name : fwupd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.2100
+--------------------------------------------------
+PID : 15649
+Name : gvfsd-network
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0443
+--------------------------------------------------
+PID : 15658
+Name : gvfsd-dnssd
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0346
+--------------------------------------------------
+PID : 63546
+Name : gvfsd-http
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0426
+--------------------------------------------------
+PID : 95416
+Name : snap
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0624
+--------------------------------------------------
+PID : 105872
+Name : psimon
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 135149
+Name : nautilus
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.0430
+--------------------------------------------------
+PID : 136110
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 4.0503
+--------------------------------------------------
+PID : 136117
+Name : cat
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0150
+--------------------------------------------------
+PID : 136118
+Name : cat
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0152
+--------------------------------------------------
+PID : 136120
+Name : chrome_crashpad_handler
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0205
+--------------------------------------------------
+PID : 136122
+Name : chrome_crashpad_handler
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0183
+--------------------------------------------------
+PID : 136130
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.2463
+--------------------------------------------------
+PID : 136131
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.2780
+--------------------------------------------------
+PID : 136133
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0781
+--------------------------------------------------
+PID : 136163
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.3992
+--------------------------------------------------
+PID : 136177
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.4378
+--------------------------------------------------
+PID : 136296
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.2559
+--------------------------------------------------
+PID : 136399
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 6.8193
+--------------------------------------------------
+PID : 136613
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 2.1064
+--------------------------------------------------
+PID : 136652
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.5023
+--------------------------------------------------
+PID : 136930
+Name : kworker/u33:3-i915_flip
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 141299
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 7.7382
+--------------------------------------------------
+PID : 143364
+Name : gnome-terminal-server
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.8185
+--------------------------------------------------
+PID : 143622
+Name : sudo
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0565
+--------------------------------------------------
+PID : 143640
+Name : sudo
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0207
+--------------------------------------------------
+PID : 143641
+Name : systemctl
+User Name : root
+Status : stopped
+CPU Usage : 0.0000
+RAM Usage : 0.0443
+--------------------------------------------------
+PID : 143642
+Name : less
+User Name : root
+Status : zombie
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 145195
+Name : mysqld
+User Name : mysql
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.2627
+--------------------------------------------------
+PID : 155703
+Name : bash
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0482
+--------------------------------------------------
+PID : 159822
+Name : kworker/u33:1-i915_flip
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 162011
+Name : kworker/2:2-i915-unordered
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 169703
+Name : bash
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0800
+--------------------------------------------------
+PID : 170560
+Name : cupsd
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0965
+--------------------------------------------------
+PID : 170562
+Name : cups-browsed
+User Name : cups-browsed
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.1599
+--------------------------------------------------
+PID : 171238
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.6072
+--------------------------------------------------
+PID : 171240
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.4537
+--------------------------------------------------
+PID : 171241
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.4527
+--------------------------------------------------
+PID : 171254
+Name : chrome_crashpad_handler
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0283
+--------------------------------------------------
+PID : 171270
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.6987
+--------------------------------------------------
+PID : 171341
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 4.3613
+--------------------------------------------------
+PID : 171383
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.8326
+--------------------------------------------------
+PID : 171412
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.1456
+--------------------------------------------------
+PID : 171413
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.1239
+--------------------------------------------------
+PID : 171488
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.3203
+--------------------------------------------------
+PID : 171489
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 7.0360
+--------------------------------------------------
+PID : 171603
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.0067
+--------------------------------------------------
+PID : 171623
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.3235
+--------------------------------------------------
+PID : 171624
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.5978
+--------------------------------------------------
+PID : 171648
+Name : dconf
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0511
+--------------------------------------------------
+PID : 171658
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.0604
+--------------------------------------------------
+PID : 171783
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.7328
+--------------------------------------------------
+PID : 171866
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.8331
+--------------------------------------------------
+PID : 171892
+Name : codex
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.5172
+--------------------------------------------------
+PID : 172132
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.4374
+--------------------------------------------------
+PID : 172246
+Name : bash
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0806
+--------------------------------------------------
+PID : 172348
+Name : pet
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0269
+--------------------------------------------------
+PID : 172349
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.3838
+--------------------------------------------------
+PID : 172384
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.8076
+--------------------------------------------------
+PID : 172476
+Name : bash
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0806
+--------------------------------------------------
+PID : 172499
+Name : bash
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0763
+--------------------------------------------------
+PID : 172698
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 5.7629
+--------------------------------------------------
+PID : 173151
+Name : npm run dev
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.5589
+--------------------------------------------------
+PID : 173162
+Name : sh
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0157
+--------------------------------------------------
+PID : 173163
+Name : MainThread
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.3325
+--------------------------------------------------
+PID : 174137
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.2496
+--------------------------------------------------
+PID : 174155
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.0393
+--------------------------------------------------
+PID : 176968
+Name : bash
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0801
+--------------------------------------------------
+PID : 179256
+Name : kworker/6:2-events
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 179322
+Name : python
+User Name : pratik
+Status : stopped
+CPU Usage : 0.0000
+RAM Usage : 0.3803
+--------------------------------------------------
+PID : 181205
+Name : python
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.3701
+--------------------------------------------------
+PID : 181715
+Name : kworker/5:2-cgroup_free
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 181969
+Name : kworker/7:2-cgroup_release
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 182213
+Name : code
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.8836
+--------------------------------------------------
+PID : 182363
+Name : kworker/0:2-events
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 182630
+Name : sleep
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0151
+--------------------------------------------------
+PID : 182893
+Name : kworker/4:2-mm_percpu_wq
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 183043
+Name : python
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.4498
+--------------------------------------------------
+PID : 183230
+Name : kworker/u32:4-ext4-rsv-conversion
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 183941
+Name : kworker/2:0-events
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 184250
+Name : kworker/7:0-events
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 184277
+Name : kworker/1:0-i915-unordered
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 184304
+Name : kworker/3:2-events
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 184315
+Name : kworker/u32:15-events_unbound
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 184318
+Name : kworker/u32:18-i915
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 184323
+Name : kworker/4:0-events
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 184324
+Name : irq/164-mei_me
+User Name : root
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 184355
+Name : kworker/3:3-cgroup_free
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 184443
+Name : kworker/0:1-cgroup_free
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 184539
+Name : gjs
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.6838
+--------------------------------------------------
+PID : 184839
+Name : kworker/1:2-i915-unordered
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 184889
+Name : kworker/6:1
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 185025
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.7753
+--------------------------------------------------
+PID : 185048
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.9705
+--------------------------------------------------
+PID : 185157
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.2377
+--------------------------------------------------
+PID : 185426
+Name : kworker/u32:0-i915
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 185442
+Name : kworker/5:1-mm_percpu_wq
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 185582
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 1.0295
+--------------------------------------------------
+PID : 185609
+Name : bash
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.0807
+--------------------------------------------------
+PID : 185639
+Name : kworker/u32:1
+User Name : root
+Status : idle
+CPU Usage : 0.0000
+RAM Usage : 0.0000
+--------------------------------------------------
+PID : 185736
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.5806
+--------------------------------------------------
+PID : 185749
+Name : idle
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.3071
+--------------------------------------------------
+PID : 185837
+Name : chrome
+User Name : pratik
+Status : sleeping
+CPU Usage : 0.0000
+RAM Usage : 0.7278
+--------------------------------------------------
+PID : 185847
+Name : python3
+User Name : pratik
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1324
+--------------------------------------------------
+----------------------End of Log file--------------------
+--------------------------------------------------

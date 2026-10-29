@@ -1,0 +1,74 @@
+resumes/
+intel-gpu-venv/
+intel-xpu-venv/
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML/DL generated files
+*.h5
+*.keras
+*.pth
+*.pt
+*.onnx
+# Python virtual environments
+intel-gpu-venv/
+intel-xpu-venv/
+venv/
+.venv/
+env/
+ENV/
+DeepLearning/MarvellousLLM/MarvellousLLM/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Large AI model files
+*.gguf
+*.safetensors
+*.onnx
+*.pth
+*.pt
+*.h5
+*.keras
+# Python virtual environments
+intel-gpu-venv/
+intel-xpu-venv/
+venv/
+.venv/
+env/
+ENV/
+DeepLearning/MarvellousLLM/MarvellousLLM/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Large AI model files
+*.gguf
+*.safetensors
+*.onnx
+*.pth
+*.pt
+*.h5
+*.keras
