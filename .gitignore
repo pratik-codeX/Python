@@ -72,3 +72,18 @@ __pycache__/
 *.pt
 *.h5
 *.keras
+
+# Local Python virtual environments
+intel-gpu-venv/
+intel-xpu-venv/
+DeepLearning/MarvellousLLM/MarvellousLLM/
+
+# Python environment and cache directories
+**/venv/
+**/.venv/
+**/__pycache__/
+
+# Local vector database and generated model artifacts
+**/MarvellousDB/
+*.gguf
+*.safetensors
